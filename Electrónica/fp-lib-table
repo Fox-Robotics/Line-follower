@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Seguidor)(type KiCad)(uri ${KIPRJMOD}/Librerías/Seguidor.pretty)(options "")(descr ""))
+)
